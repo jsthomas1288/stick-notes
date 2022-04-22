@@ -1,2 +1,2 @@
-# stick-notes
+# sticky-note-generator
 Created with CodeSandbox
